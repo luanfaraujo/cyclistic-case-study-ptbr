@@ -1,6 +1,8 @@
 # Estudo de Caso - Compartilhamento de Bicicletas Cyclistic
 Um estudo de caso feito utilizando Python e Tableau, envolvendo 1 ano de dados, com foco na resposta a perguntas e entrega de sugestões de marketing para uma empresa de compartilhamento de bicicletas ficcional no que tange ao uso de seus veículos. Estudo feito como projeto final para o Certificado de Análise de Dados oferecido pela Google.
 
+_If you prefer the English version of this project, [click here](https://github.com/luanfaraujo/cyclistic-case-study-en)._
+
 ---
 
 ## Resumo
